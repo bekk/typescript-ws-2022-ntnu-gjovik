@@ -2,7 +2,7 @@
     "name": "typescript-ws",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "index.ts",
     "scripts": {
         "1": "npx ts-node 1_basic/oppgaver.ts",
         "4": "npx ts-node 4_interface_og_type/oppgaver.ts",
